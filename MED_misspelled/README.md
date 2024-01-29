@@ -11,6 +11,6 @@ pip install -r requirements.txt
 ```
 
 ## Files
-* **[notebook file](https://github.com/BatMrE/Natural-language-processing/blob/main/MED_misspelled/Data/edit_distance.ipynb):** contains notebook with all functions and operations
+* **[notebook file](https://github.com/BatMrE/Natural-language-processing/blob/main/MED_misspelled/edit_distance.ipynb):** contains notebook with all functions and operations
 
-* **[py file](https://github.com/BatMrE/Natural-language-processing/blob/main/MED_misspelled/Data/main.py):** contains python file with supporting file in src folder
+* **[py file](https://github.com/BatMrE/Natural-language-processing/blob/main/MED_misspelled/main.py):** contains python file with supporting file in src folder
